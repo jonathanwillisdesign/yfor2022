@@ -328,8 +328,13 @@ g.circle-three {
 	div.links {
 		display: none;
 	}
+
 	div.two-column {
 		height: auto;
 		flex-direction: column;
+	}
+
+	header a.primary-button {
+		display: none;
 	}
 }
