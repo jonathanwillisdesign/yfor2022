@@ -323,11 +323,7 @@ g.circle-three {
 
 
 
-@media screen and (max-width: 480px) {
-
-	body {
-		background-color: red;
-	}
+@media all and (max-width: 480px) {
 
 	div.links {
 		display: none;
